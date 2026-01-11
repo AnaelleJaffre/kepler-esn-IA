@@ -1,0 +1,10 @@
+python==3.11
+
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# ReservoirPy
+reservoirpy==0.9.6
